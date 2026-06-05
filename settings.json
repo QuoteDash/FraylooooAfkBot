@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -17.5,
+    "y": 90,
+    "z": -19.5
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Make America Great Again!",
-        "America First!",
-        "Biden's on another ice cream break."
+        "You guys better not be cheating...",
+        "Is anyone on?",
+        "Type hi and I will respond!"
       ]
     },
     "chat-log": true,
