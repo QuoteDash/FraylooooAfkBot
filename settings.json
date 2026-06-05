@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Trump",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "AmericaxMinecraft.aternos.me",
     "port": 64273,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Make America Great Again!",
+        "America First!",
+        "Biden's on another ice cream break."
       ]
     },
     "chat-log": true,
