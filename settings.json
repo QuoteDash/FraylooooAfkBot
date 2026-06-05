@@ -9,7 +9,7 @@
     "ip": "AmericaxMinecraft.aternos.me",
     "port": 64273,
     "version": "1.21.4",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
